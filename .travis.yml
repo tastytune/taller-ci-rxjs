@@ -1,6 +1,7 @@
 node_js:
 - node # descargará la última versión de node
 
+
 before_script:
 - npm install -g --silent @angular/cli
 - npm install -g --silent firebase-tools
