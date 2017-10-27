@@ -1,5 +1,6 @@
 node_js:
 - node # descargará la última versión de node
 
+
 script:
 - npm run build -- --prod
